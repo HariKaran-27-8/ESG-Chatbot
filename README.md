@@ -58,7 +58,7 @@ pushed to GitHub) └── README.md \# Project documentation
 
 ### 1 Clone the repository
 
-git clone https://github.com/your-username/esg-chatbot.git cd
+git clone https://github.com/HariKaran-27-8/esg-chatbot.git cd
 esg-chatbot
 
 ### 2 Create virtual environment (recommended)
