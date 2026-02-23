@@ -53,13 +53,13 @@ st.markdown("""
 # -----------------------
 # TITLE
 # -----------------------
-st.markdown('<div class="main-title">📊 ESG Multi-Report Intelligence Assistant</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title"> ESG Multi-Report Intelligence Assistant</div>', unsafe_allow_html=True)
 
 # -----------------------
 # SIDEBAR – FILE UPLOAD
 # -----------------------
 with st.sidebar:
-    st.header("📁 Upload ESG Reports")
+    st.header(" Upload ESG Reports")
     uploaded_files = st.file_uploader(
         "Upload one or more ESG PDF reports",
         type="pdf",
@@ -79,7 +79,7 @@ if "chat_history" not in st.session_state:
 # PROCESS FILES
 # -----------------------
 if uploaded_files:
-    with st.spinner("Processing ESG reports... Please wait ⏳"):
+    with st.spinner("Processing ESG reports... Please wait "):
         
         embeddings = HuggingFaceEmbeddings(
             model_name="sentence-transformers/all-MiniLM-L6-v2"
@@ -106,7 +106,7 @@ if uploaded_files:
 
                 st.session_state.vectorstores[uploaded_file.name] = vectorstore
 
-    st.success("All reports processed successfully ✅")
+    st.success("All reports processed successfully ")
 
 # -----------------------
 # LLM
@@ -123,9 +123,9 @@ st.markdown('<div class="chat-container">', unsafe_allow_html=True)
 
 for role, message in st.session_state.chat_history:
     if role == "user":
-        st.markdown(f'<div class="user-msg">🧑 {message}</div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="user-msg"> {message}</div>', unsafe_allow_html=True)
     else:
-        st.markdown(f'<div class="bot-msg">🤖 {message}</div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="bot-msg"> {message}</div>', unsafe_allow_html=True)
 
 st.markdown('</div>', unsafe_allow_html=True)
 
@@ -171,17 +171,18 @@ if user_input and st.session_state.vectorstores:
             response = llm.invoke(prompt)
 
             final_answer += f"""
-### 📄 {filename}
+### {filename}
 
 {response.content}
 
-📌 Reference Pages: {page_numbers}
+ Reference Pages: {page_numbers}
 
 ---
 """
 
     st.session_state.chat_history.append(("bot", final_answer))
     st.rerun()
+
 
 
 
