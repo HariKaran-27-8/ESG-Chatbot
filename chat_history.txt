@@ -1,0 +1,133 @@
+
+
+===== 2026-02-17 22:03:07.857335 =====
+Question: Does the company have a clear policy for handling, recycling, or refurbishing electronic waste?
+Answer:
+
+📄 **wipro-esg-25.pdf**
+
+According to the given context, yes, the company Wipro has a clear policy for handling, recycling, or refurbishing electronic waste. The text states that Wipro collaborates with "authorized recycling partners to manage electronic waste (e-waste) responsibly, ensuring regulatory compliance." This suggests that the company has a structured approach to managing e-waste, ensuring that it is handled and recycled in a responsible and compliant manner.
+
+📌 Reference Pages: [79, 80, 81]
+
+---
+
+📄 **infosys-esg-25.pdf**
+
+Yes, the company has a clear policy for handling, recycling, or refurbishing electronic waste. According to the Infosys ESG Report 2024-25, they have adopted a forward-looking e-waste management strategy that prioritizes refurbishment over disposal wherever possible. This strategy includes a "refurbishment-first model" that extends the lifestyle of electronic assets, aligning closely with circular economy objectives.
+
+In cases where refurbishment is not possible, they work exclusively with authorized recyclers who are rigorously assessed for compliance with legal standards and the degree of circularity embedded in their recycling processes.
+
+Additionally, their governance framework includes:
+
+1. Policy & Protocols: Standard operating procedures for e-waste category, updated annually or as necessary.
+2. Audits & Legal Review: Regular internal and third-party audits verify compliance; any non-conformances trigger corrective action plans.
+3. Vendor Evaluation Framework: Assessing and approving waste-management vendors based on regulatory adherence, capacity for resource recovery, and circular economy principles.
+
+This indicates that Infosys has a comprehensive and structured approach to managing electronic waste, prioritizing refurbishment, recycling, and responsible disposal practices.
+
+📌 Reference Pages: [29, 30]
+
+---
+
+📄 **tcs-esg.pdf**
+
+Yes, the company, TCS, has a clear policy for handling, recycling, or refurbishing electronic waste (e-waste). 
+
+According to the information provided, TCS focuses on safe disposal of e-waste to authorized recycler as per regulatory requirements in respective geographies. They have a process to manage and handle e-wastes at TCS, which involves a stringent process for conducting due diligence prior to finalizing an authorized e-waste disposal/recycling vendor. 
+
+Additionally, TCS ensures that all e-waste is disposed of through government-approved e-waste recyclers. This indicates that the company has a clear policy in place for handling and recycling e-waste in an environmentally responsible manner.
+
+📌 Reference Pages: [69, 78, 79]
+
+---
+
+
+
+===== 2026-02-18 13:46:38.637379 =====
+Question: Are there any plastic reduction initiatives?
+Answer:
+
+ **wipro-esg-25.pdf**
+
+Unfortunately, the provided context doesn't explicitly mention any plastic reduction initiatives. It focuses primarily on Construction and Demolition (C&D) waste management, recycling, and circularity goals, particularly in the context of India.
+
+ Reference Pages: [80, 148]
+
+---
+
+ **infosys-esg-25.pdf**
+
+According to the Infosys ESG Report 2024-25, the company has pledged to ban single-use plastics (as mentioned in 2017).
+
+ Reference Pages: [8, 14, 16, 18]
+
+---
+
+ **tcs-esg.pdf**
+
+Yes, TCS has a plastic reduction initiative. According to the provided text, TCS focuses on the elimination of single-use plastics to ensure that the impact on the environment and ecosystems is minimal.
+
+ Reference Pages: [47, 70, 78]
+
+---
+
+
+
+===== 2026-02-18 14:01:12.823247 =====
+Question: What percentage of women are in leadership roles?
+Answer:
+
+ **wipro-esg-25.pdf**
+
+According to the provided information, in the "Employee Categorization" section, Senior roles are categorized as leadership roles. The percentage of women in Senior (leadership) roles is 0.4%.
+
+However, a more direct answer can be found in the "Employee Categorization" section under "Gender-wise FY25 %". The percentage of the total workforce that are Senior roles (leadership roles) is 0.4%, and the percentage of women in Senior roles is 0.4% as well.
+
+To find the percentage of women in leadership roles, we need to calculate the percentage of women in the total workforce who are in Senior roles. However, since the Senior role is very small compared to the total workforce, and the percentage of women in Senior roles is also very small, the percentage of women in leadership roles is approximately 0.4% of 37.1% (the percentage of women in the total workforce). 
+
+This can be calculated as 0.4 * 37.1 = 14.44%.
+
+ Reference Pages: [94, 114, 115]
+
+---
+
+ **infosys-esg-25.pdf**
+
+I don't have the specific information on the percentage of women in leadership roles at Infosys. The provided text mentions various initiatives and statistics, but it doesn't explicitly state the current percentage of women in leadership roles.
+
+ Reference Pages: [42, 56]
+
+---
+
+ **tcs-esg.pdf**
+
+Based on the information provided, we can see the following percentages of women in leadership roles:
+
+- Board of Directors: 25% (2 out of 8)
+- Key Management Personnel: 0% (0 out of 3)
+
+However, since the question is asking for the overall percentage of women in leadership roles, we need to calculate the total number of women in leadership roles out of the total number of leadership roles.
+
+Since the information provided does not specify the total number of leadership roles, we can only provide the percentages of women in specific leadership roles.
+
+To get the overall percentage of women in leadership roles, we would need more information about the total number of leadership roles in the company.
+
+ Reference Pages: [33, 43, 66, 167]
+
+---
+
+
+
+===== 2026-02-19 15:48:54.602928 =====
+Question: What percentage of waste is recycled or reused?
+Answer:
+
+ **tcs-esg.pdf**
+
+According to the given information, 56% of the Company's waste generated is recovered through recycling and reuse (mentioned in point 4 and also in point 9).
+
+ Reference Pages: [70, 78, 79]
+
+---
+
